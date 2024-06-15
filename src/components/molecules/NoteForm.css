@@ -1,0 +1,11 @@
+.note-form {
+    /* border: 4px solid saddlebrown; */
+    /* background-color: brown; */
+    border-radius: 18px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+    /* padding: 1%; */
+  }
+  
